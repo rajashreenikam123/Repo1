@@ -1,12 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is B0AF-BFA0
-
- Directory of C:\Users\Rajashree\Desktop\GitDemo
-
-03/20/2023  06:04 PM    <DIR>          .
-03/20/2023  06:04 PM    <DIR>          ..
-03/20/2023  06:04 PM    <DIR>          .git
-03/20/2023  01:31 PM               194 git cmd.txt
-03/20/2023  06:04 PM                 0 test1.txt
-               2 File(s)            194 bytes
-               3 Dir(s)  221,486,366,720 bytes free
+Hi

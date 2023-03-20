@@ -1,0 +1,7 @@
+git clone "url"
+git checkout -b branchname ==== for new branch create
+git checkout branchname ==== for switch to existing branch
+git pull 
+git add filePath
+git commit -m "message"
+git push
