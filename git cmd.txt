@@ -5,3 +5,11 @@ git pull
 git add filePath
 git commit -m "message"
 git push
+git branch "branch name" ==== to create branch
+git checkout "branch name" ==== checkout branch
+git merge "branch name" ====== to merge branch
+git add . ==== add the changes
+git branch -d "branch name" ==== delete branch from local
+git push origin --delete "branchname" ===delete branch from remote" 
+git checkout ===to switch branch
+git tag <tagname> ===== to create tag with some name
